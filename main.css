@@ -1,0 +1,72 @@
+#root {
+  position: relative;
+  width: 780px;
+  background-color: deepskyblue;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.conatainer{
+  border: 1px solid;
+  padding: 20px;
+}
+
+.pictures img{
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+}
+
+.pictures {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pictures div {
+  position: relative;
+  width: 20%;
+}
+
+.close {
+  position: absolute;
+  top: -120px;
+  left: 100px;
+}
+
+.drop-area {
+  height: 200px;
+  width: 100%;
+  border: 1px dashed red;
+  border-radius: 5px;
+}
+
+.overlapped {
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0; margin: 0;
+  opacity: 0.1;
+  width: 1px;
+}
+
+.algorithm {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+}
+
+.hash {
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.value-hash {
+  margin-top: 15px;
+  width: 100%;
+  overflow-wrap: break-word;
+}
+
+
+
+
