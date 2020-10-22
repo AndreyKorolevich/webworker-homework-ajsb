@@ -1,4 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/j3y8y5sfp19fvknb?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/webworker-homework-ajsb)
+- deployment: <a href="https://andreykorolevich.github.io/webworker-homework-ajsb/">Github Pages</a>
+
 ### Hasher
 
 #### Легенда
